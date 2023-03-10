@@ -15,7 +15,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "redux": "^4.2.1",
-    "tsup": "6.6.3"
+    "redux": "^4.2.1"
   }
 }
